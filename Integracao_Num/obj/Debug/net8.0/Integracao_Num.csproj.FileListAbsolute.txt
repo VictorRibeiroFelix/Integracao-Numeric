@@ -1,0 +1,14 @@
+C:\TI\C#\Brito\Integracao_Num\bin\Debug\net8.0\Integracao_Num.exe
+C:\TI\C#\Brito\Integracao_Num\bin\Debug\net8.0\Integracao_Num.deps.json
+C:\TI\C#\Brito\Integracao_Num\bin\Debug\net8.0\Integracao_Num.runtimeconfig.json
+C:\TI\C#\Brito\Integracao_Num\bin\Debug\net8.0\Integracao_Num.dll
+C:\TI\C#\Brito\Integracao_Num\bin\Debug\net8.0\Integracao_Num.pdb
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\Integracao_Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\Integracao_Num.AssemblyInfoInputs.cache
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\Integracao_Num.AssemblyInfo.cs
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\Integracao_Num.csproj.CoreCompileInputs.cache
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\Integracao_Num.dll
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\refint\Integracao_Num.dll
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\Integracao_Num.pdb
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\Integracao_Num.genruntimeconfig.cache
+C:\TI\C#\Brito\Integracao_Num\obj\Debug\net8.0\ref\Integracao_Num.dll
